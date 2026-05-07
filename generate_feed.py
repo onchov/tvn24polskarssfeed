@@ -6,7 +6,7 @@ from datetime import datetime, timezone
 from hashlib import md5
 
 NEWS_URL = "https://tvn24.pl/polska"
-OUTPUT_FILE = "rss.xml"
+OUTPUT_FILE = "tvn24polska.xml"
 
 # Download page
 response = requests.get(
