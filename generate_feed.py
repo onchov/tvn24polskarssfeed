@@ -7,7 +7,7 @@ from email.utils import formatdate
 import time
 
 NEWS_URL = "https://tvn24.pl/polska"
-OUTPUT_FILE = "tvn24polska.xml"
+OUTPUT_FILE = "tvn24polska.rss"
 
 # -----------------------------
 # Download page (safe encoding)
