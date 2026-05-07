@@ -2,12 +2,15 @@ import requests
 from bs4 import BeautifulSoup
 from feedgen.feed import FeedGenerator
 from hashlib import md5
+from urllib.parse import urljoin
+from email.utils import formatdate
+import time
 
 NEWS_URL = "https://tvn24.pl/polska"
 OUTPUT_FILE = "tvn24polska.xml"
 
 # -----------------------------
-# Download page (RAW BYTES ONLY)
+# Download page (safe encoding)
 # -----------------------------
 response = requests.get(
     NEWS_URL,
@@ -23,12 +26,12 @@ response = requests.get(
 
 response.raise_for_status()
 
-# Force correct decoding (important for Polish characters)
+# Force correct encoding for Polish characters
 response.encoding = response.apparent_encoding or "utf-8"
 html = response.content.decode(response.encoding, errors="replace")
 
 # -----------------------------
-# Parse HTML safely
+# Parse HTML
 # -----------------------------
 soup = BeautifulSoup(html, "lxml")
 
@@ -58,6 +61,9 @@ for article in articles:
     if not title or not link:
         continue
 
+    # Convert to absolute URL (fix for RSS readers)
+    link = urljoin(NEWS_URL, link)
+
     if link in seen:
         continue
     seen.add(link)
@@ -65,24 +71,30 @@ for article in articles:
     if "/polska/" not in link:
         continue
 
+    # Stable GUID
     guid = md5(link.encode("utf-8")).hexdigest()
 
     fe = fg.add_entry()
     fe.title(title)
     fe.link(href=link)
-    fe.guid(guid)
+
+    # GUID explicitly marked as non-permalink
+    fe.guid(guid, permalink=False)
+
     fe.description(title)
+
+    # Required for stricter RSS readers (ustart fix)
+    fe.pubDate(formatdate(time.time(), usegmt=True))
 
     added += 1
 
 print(f"Articles added: {added}")
 
 # -----------------------------
-# Write RSS (FORCE UTF-8)
+# Write RSS (strict UTF-8)
 # -----------------------------
-rss_feed = fg.rss_str(pretty=True, encoding="utf-8")
+rss_feed = fg.rss_str(pretty=True, encoding="utf-8", xml_declaration=True)
 
-# feedgen may return bytes or str depending on version
 if isinstance(rss_feed, bytes):
     rss_feed = rss_feed.decode("utf-8")
 
