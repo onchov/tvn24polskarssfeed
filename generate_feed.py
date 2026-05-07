@@ -44,7 +44,7 @@ fg.title("TVN24 Polska")
 fg.link(href=NEWS_URL, rel="alternate")
 fg.description("Auto-generated TVN24 Polska RSS feed")
 fg.language("pl")
-
+fg.link(href="https://onchov.github.io/tvn24polskarssfeed/tvn24polska.rss", rel="self")
 # -----------------------------
 # Extract articles
 # -----------------------------
