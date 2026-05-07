@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>TVN24 Polska</title>
+    <link>https://tvn24.pl/polska</link>
+    <description>Auto-generated TVN24 Polska RSS feed</description>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>python-feedgen</generator>
+    <language>pl</language>
+    <lastBuildDate>Thu, 07 May 2026 14:49:16 +0000</lastBuildDate>
+    <item>
+      <title>Takie zadania były na maturze z angielskiego na poziomie rozszerzonym. Arkusz CKE</title>
+      <link>https://tvn24.pl/polska/matura-2026-jezyk-angielski-arkusze-cke-poziom-rozszerzony-st9036004</link>
+      <description>Takie zadania były na maturze z angielskiego na poziomie rozszerzonym. Arkusz CKE</description>
+      <guid isPermaLink="false">2f10a4176f360207440b8bd3f6202e2c</guid>
+      <pubDate>Thu, 07 May 2026 14:49:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>Zmiana w wojsku. Jest nowy dowódca</title>
+      <link>https://tvn24.pl/polska/nowy-dowodca-wojsk-obrony-cyberprzestrzeni-zastapi-generala-karola-molende-st9036156</link>
+      <description>Zmiana w wojsku. Jest nowy dowódca</description>
+      <guid isPermaLink="false">91ea1632a49f621cbc98585d386d80ef</guid>
+      <pubDate>Thu, 07 May 2026 14:49:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>"To było piekło i jest dalej". Relacje strażaków</title>
+      <link>https://tvn24.pl/polska/to-bylo-pieklo-i-jest-dalej-tak-pozar-puszczy-solskiej-relacjonuja-strazacy-st9035594</link>
+      <description>"To było piekło i jest dalej". Relacje strażaków</description>
+      <guid isPermaLink="false">e116f24c459846b7d0b12478536073ea</guid>
+      <pubDate>Thu, 07 May 2026 14:49:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>"Kolejny prezydent RP, który zeszmaca ideę referendum"</title>
+      <link>https://tvn24.pl/polska/nawrocki-chce-referendum-nie-traktuje-obywateli-powaznie-st9036151</link>
+      <description>"Kolejny prezydent RP, który zeszmaca ideę referendum"</description>
+      <guid isPermaLink="false">add6e08b65aaf96d78940d092f760812</guid>
+      <pubDate>Thu, 07 May 2026 14:49:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>Puszcza Solska w płomieniach. Jaki obszar pochłonął pożar?</title>
+      <link>https://tvn24.pl/polska/puszcza-solska-w-plomieniach-jaki-obszar-pochlonal-pozar-ile-hektarow-lasow-mapa-st9036093</link>
+      <description>Puszcza Solska w płomieniach. Jaki obszar pochłonął pożar?</description>
+      <guid isPermaLink="false">5d773e2de56669ed8390b3ac1db9ae2e</guid>
+      <pubDate>Thu, 07 May 2026 14:49:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>Nowy sondaż partyjny. Cztery ugrupowania w Sejmie</title>
+      <link>https://tvn24.pl/polska/sondaz-cbos-maj-2026-cztery-ugrupowania-w-sejmie-st9036658</link>
+      <description>Nowy sondaż partyjny. Cztery ugrupowania w Sejmie</description>
+      <guid isPermaLink="false">19a21684d7f8713f445f604ac38c6fa1</guid>
+      <pubDate>Thu, 07 May 2026 14:49:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>Szydło nie pojawiła się na przesłuchaniu. Prokurator czekał ponad godzinę</title>
+      <link>https://tvn24.pl/polska/beata-szydlo-nie-pojawila-sie-na-przesluchaniu-w-sprawie-kampanii-sprawiedliwe-sady-st9036590</link>
+      <description>Szydło nie pojawiła się na przesłuchaniu. Prokurator czekał ponad godzinę</description>
+      <guid isPermaLink="false">5fd5fb305ba64bde3e6df8bc734d94ec</guid>
+      <pubDate>Thu, 07 May 2026 14:49:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>Sypie gradem z superkomórki. Zobacz nagranie</title>
+      <link>https://tvn24.pl/tvnmeteo/polska/pogoda-w-czwartek-w-polsce-lodzkie-sypie-gradem-z-superkomorki-zobacz-nagranie-st9036571</link>
+      <description>Sypie gradem z superkomórki. Zobacz nagranie</description>
+      <guid isPermaLink="false">b7ea233e8ab655a882b545d3e9f9c3a7</guid>
+      <pubDate>Thu, 07 May 2026 14:49:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>Gdzie jest burza? Grzmi w kolejnych województwach</title>
+      <link>https://tvn24.pl/tvnmeteo/polska/gdzie-jest-burza-burze-w-polsce-w-czwartek-7-05-mapa-i-radar-burz-slychac-pierwsze-grzmoty-st9036000</link>
+      <description>Gdzie jest burza? Grzmi w kolejnych województwach</description>
+      <guid isPermaLink="false">9061f3ede01d1fd597e5a3b5a8edc209</guid>
+      <pubDate>Thu, 07 May 2026 14:49:16 +0000</pubDate>
+    </item>
+  </channel>
+</rss>
