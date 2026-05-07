@@ -1,2 +1,66 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>TVN24 Polska</title><link>https://tvn24.pl/polska</link><description>Auto-generated TVN24 Polska RSS feed</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>pl</language><lastBuildDate>Thu, 07 May 2026 12:55:04 +0000</lastBuildDate><item><title>Tusk zaprosiÅ papieÅ¼a Leona XIV doÂ Polski. Jest moÅ¼liwa data</title><link>https://tvn24.pl/polska/donald-tusk-spotkal-sie-z-papiezem-leonem-xiv-zaprosil-go-do-polski-jest-data-st9035257</link><description>Tusk zaprosiÅ papieÅ¼a Leona XIV doÂ Polski. Jest moÅ¼liwa data</description><guid isPermaLink="false">2c0e5949f777d3fa7f4d955e4d318499</guid></item><item><title>Ile wojewÃ³dztw ma Polska? PosÅanka: nieÂ liczyÅam ich nigdy</title><link>https://tvn24.pl/polska/dzien-dobry-tvn-tabliczka-mnozenia-i-nie-tylko-jak-na-maturalne-pytania-odpowiedzieli-politycy-st9035700</link><description>Ile wojewÃ³dztw ma Polska? PosÅanka: nieÂ liczyÅam ich nigdy</description><guid isPermaLink="false">3350432bf98f15f60b4eaf10019b7725</guid></item><item><title>Co dalej zÂ czwÃ³rkÄ wybranych sÄdziÃ³w? "Stanowisko prezesa TK pozostaje niezmienne"</title><link>https://tvn24.pl/polska/trybunal-konstytucyjny-czworka-wybranych-i-niedopuszczonych-sedziow-zlozyla-zabezpieczenie-etpc-stanowisko-prezesa-pozostaje-niezmienne-st9035925</link><description>Co dalej zÂ czwÃ³rkÄ wybranych sÄdziÃ³w? "Stanowisko prezesa TK pozostaje niezmienne"</description><guid isPermaLink="false">59812a5b26426dd91dc1f808d85c06a3</guid></item><item><title>Takie zadania byÅy naÂ maturze zÂ angielskiego naÂ poziomie rozszerzonym. Arkusz CKE</title><link>https://tvn24.pl/polska/matura-2026-jezyk-angielski-arkusze-cke-poziom-rozszerzony-st9036004</link><description>Takie zadania byÅy naÂ maturze zÂ angielskiego naÂ poziomie rozszerzonym. Arkusz CKE</description><guid isPermaLink="false">2f10a4176f360207440b8bd3f6202e2c</guid></item><item><title>Zmiana wÂ wojsku. Jest nowy dowÃ³dca</title><link>https://tvn24.pl/polska/nowy-dowodca-wojsk-obrony-cyberprzestrzeni-zastapi-generala-karola-molende-st9036156</link><description>Zmiana wÂ wojsku. Jest nowy dowÃ³dca</description><guid isPermaLink="false">91ea1632a49f621cbc98585d386d80ef</guid></item><item><title>"To byÅo piekÅo iÂ jest dalej". TakÂ poÅ¼ar Puszczy Solskiej relacjonujÄ straÅ¼acy</title><link>https://tvn24.pl/polska/to-bylo-pieklo-i-jest-dalej-tak-pozar-puszczy-solskiej-relacjonuja-strazacy-st9035594</link><description>"To byÅo piekÅo iÂ jest dalej". TakÂ poÅ¼ar Puszczy Solskiej relacjonujÄ straÅ¼acy</description><guid isPermaLink="false">e116f24c459846b7d0b12478536073ea</guid></item><item><title>Gdzie jest burza? Dwa fronty nadÂ PolskÄ</title><link>https://tvn24.pl/tvnmeteo/polska/gdzie-jest-burza-burze-w-polsce-w-czwartek-7-05-mapa-i-radar-burz-slychac-pierwsze-grzmoty-st9036000</link><description>Gdzie jest burza? Dwa fronty nadÂ PolskÄ</description><guid isPermaLink="false">9061f3ede01d1fd597e5a3b5a8edc209</guid></item><item><title>Nawrocki chce referendum. "Nie traktuje obywateli powaÅ¼nie"</title><link>https://tvn24.pl/polska/nawrocki-chce-referendum-nie-traktuje-obywateli-powaznie-st9036151</link><description>Nawrocki chce referendum. "Nie traktuje obywateli powaÅ¼nie"</description><guid isPermaLink="false">add6e08b65aaf96d78940d092f760812</guid></item><item><title>Puszcza Solska wÂ pÅomieniach. Jaki obszar pochÅonÄÅ poÅ¼ar?</title><link>https://tvn24.pl/polska/puszcza-solska-w-plomieniach-jaki-obszar-pochlonal-pozar-ile-hektarow-lasow-mapa-st9036093</link><description>Puszcza Solska wÂ pÅomieniach. Jaki obszar pochÅonÄÅ poÅ¼ar?</description><guid isPermaLink="false">5d773e2de56669ed8390b3ac1db9ae2e</guid></item></channel></rss>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>TVN24 Polska</title>
+    <link>https://tvn24.pl/polska</link>
+    <description>Auto-generated TVN24 Polska RSS feed</description>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>python-feedgen</generator>
+    <language>pl</language>
+    <lastBuildDate>Thu, 07 May 2026 13:07:46 +0000</lastBuildDate>
+    <item>
+      <title>Tusk zaprosiÅ papieÅ¼a Leona XIV doÂ Polski. Jest moÅ¼liwa data</title>
+      <link>https://tvn24.pl/polska/donald-tusk-spotkal-sie-z-papiezem-leonem-xiv-zaprosil-go-do-polski-jest-data-st9035257</link>
+      <description>Tusk zaprosiÅ papieÅ¼a Leona XIV doÂ Polski. Jest moÅ¼liwa data</description>
+      <guid isPermaLink="false">2c0e5949f777d3fa7f4d955e4d318499</guid>
+    </item>
+    <item>
+      <title>Ile wojewÃ³dztw ma Polska? PosÅanka: nieÂ liczyÅam ich nigdy</title>
+      <link>https://tvn24.pl/polska/dzien-dobry-tvn-tabliczka-mnozenia-i-nie-tylko-jak-na-maturalne-pytania-odpowiedzieli-politycy-st9035700</link>
+      <description>Ile wojewÃ³dztw ma Polska? PosÅanka: nieÂ liczyÅam ich nigdy</description>
+      <guid isPermaLink="false">3350432bf98f15f60b4eaf10019b7725</guid>
+    </item>
+    <item>
+      <title>Co dalej zÂ czwÃ³rkÄ wybranych sÄdziÃ³w? "Stanowisko prezesa TK pozostaje niezmienne"</title>
+      <link>https://tvn24.pl/polska/trybunal-konstytucyjny-czworka-wybranych-i-niedopuszczonych-sedziow-zlozyla-zabezpieczenie-etpc-stanowisko-prezesa-pozostaje-niezmienne-st9035925</link>
+      <description>Co dalej zÂ czwÃ³rkÄ wybranych sÄdziÃ³w? "Stanowisko prezesa TK pozostaje niezmienne"</description>
+      <guid isPermaLink="false">59812a5b26426dd91dc1f808d85c06a3</guid>
+    </item>
+    <item>
+      <title>Takie zadania byÅy naÂ maturze zÂ angielskiego naÂ poziomie rozszerzonym. Arkusz CKE</title>
+      <link>https://tvn24.pl/polska/matura-2026-jezyk-angielski-arkusze-cke-poziom-rozszerzony-st9036004</link>
+      <description>Takie zadania byÅy naÂ maturze zÂ angielskiego naÂ poziomie rozszerzonym. Arkusz CKE</description>
+      <guid isPermaLink="false">2f10a4176f360207440b8bd3f6202e2c</guid>
+    </item>
+    <item>
+      <title>Zmiana wÂ wojsku. Jest nowy dowÃ³dca</title>
+      <link>https://tvn24.pl/polska/nowy-dowodca-wojsk-obrony-cyberprzestrzeni-zastapi-generala-karola-molende-st9036156</link>
+      <description>Zmiana wÂ wojsku. Jest nowy dowÃ³dca</description>
+      <guid isPermaLink="false">91ea1632a49f621cbc98585d386d80ef</guid>
+    </item>
+    <item>
+      <title>"To byÅo piekÅo iÂ jest dalej". TakÂ poÅ¼ar Puszczy Solskiej relacjonujÄ straÅ¼acy</title>
+      <link>https://tvn24.pl/polska/to-bylo-pieklo-i-jest-dalej-tak-pozar-puszczy-solskiej-relacjonuja-strazacy-st9035594</link>
+      <description>"To byÅo piekÅo iÂ jest dalej". TakÂ poÅ¼ar Puszczy Solskiej relacjonujÄ straÅ¼acy</description>
+      <guid isPermaLink="false">e116f24c459846b7d0b12478536073ea</guid>
+    </item>
+    <item>
+      <title>Gdzie jest burza? Dwa fronty nadÂ PolskÄ</title>
+      <link>https://tvn24.pl/tvnmeteo/polska/gdzie-jest-burza-burze-w-polsce-w-czwartek-7-05-mapa-i-radar-burz-slychac-pierwsze-grzmoty-st9036000</link>
+      <description>Gdzie jest burza? Dwa fronty nadÂ PolskÄ</description>
+      <guid isPermaLink="false">9061f3ede01d1fd597e5a3b5a8edc209</guid>
+    </item>
+    <item>
+      <title>"Kolejny prezydent RP, ktÃ³ryÂ zeszmaca ideÄ referendum"</title>
+      <link>https://tvn24.pl/polska/nawrocki-chce-referendum-nie-traktuje-obywateli-powaznie-st9036151</link>
+      <description>"Kolejny prezydent RP, ktÃ³ryÂ zeszmaca ideÄ referendum"</description>
+      <guid isPermaLink="false">add6e08b65aaf96d78940d092f760812</guid>
+    </item>
+    <item>
+      <title>Puszcza Solska wÂ pÅomieniach. Jaki obszar pochÅonÄÅ poÅ¼ar?</title>
+      <link>https://tvn24.pl/polska/puszcza-solska-w-plomieniach-jaki-obszar-pochlonal-pozar-ile-hektarow-lasow-mapa-st9036093</link>
+      <description>Puszcza Solska wÂ pÅomieniach. Jaki obszar pochÅonÄÅ poÅ¼ar?</description>
+      <guid isPermaLink="false">5d773e2de56669ed8390b3ac1db9ae2e</guid>
+    </item>
+  </channel>
+</rss>
