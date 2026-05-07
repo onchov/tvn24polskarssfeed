@@ -81,6 +81,9 @@ for article in articles:
 print(f"Articles added: {added}")
 
 # Write RSS XML
-fg.rss_file(OUTPUT_FILE)
+rss_feed = fg.rss_str(pretty=True)
+
+with open(OUTPUT_FILE, "wb") as f:
+    f.write(rss_feed)
 
 print(f"RSS feed generated successfully: {OUTPUT_FILE}")
